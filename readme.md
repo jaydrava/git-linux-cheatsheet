@@ -13,3 +13,6 @@
 
 ## Command : rmdir
 ** Description: ** removes empty directiory.
+
+## Command : touch
+** Description: ** Create empty file.
