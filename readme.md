@@ -31,3 +31,6 @@
 
 ## Command : git add
 ** Description: ** Stages files for commit.
+
+## Command : git commit
+** Description: ** Save staged changes to repository.
