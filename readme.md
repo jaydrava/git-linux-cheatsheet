@@ -37,3 +37,6 @@
 
 ## Command : git checkout
 ** Description: ** Switch branches or restore files.
+
+## Command : git merge
+** Description: ** Merge another branch into current one.
