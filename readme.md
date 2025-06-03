@@ -19,3 +19,6 @@
 
 ## Command : vi
 ** Description: ** Open files in Vi editor.
+
+## Command : cat
+** Description: ** Display contents of file.
