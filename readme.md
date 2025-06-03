@@ -28,3 +28,6 @@
 
 ## Command : git status
 ** Description: ** Shows status of changes in working directory.
+
+## Command : git add
+** Description: ** Stages files for commit.
