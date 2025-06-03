@@ -26,3 +26,5 @@
 ## Command : git init
 ** Description: ** Initializes a new Git repository in the current directory.
 
+## Command : git status
+** Description: ** Shows status of changes in working directory.
