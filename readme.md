@@ -16,3 +16,6 @@
 
 ## Command : touch
 ** Description: ** Create empty file.
+
+## Command : vi
+** Description: ** Open files in Vi editor.
