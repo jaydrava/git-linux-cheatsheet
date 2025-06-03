@@ -10,3 +10,6 @@
 
 ## Command : mkdir
 ** Description: ** Create a new directiory.
+
+## Command : rmdir
+** Description: ** removes empty directiory.
