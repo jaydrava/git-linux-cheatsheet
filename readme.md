@@ -7,3 +7,6 @@
 
 ## Command : pwd
 ** Descripition: ** Print current working directory.
+
+## Command : mkdir
+** Description: ** Create a new directiory.
