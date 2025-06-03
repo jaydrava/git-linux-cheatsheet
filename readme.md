@@ -4,3 +4,6 @@
 
 ## Command : cd
 ** Description: ** Change current working directory.
+
+## Command : pwd
+** Descripition: ** Print current working directory.
