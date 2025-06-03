@@ -34,3 +34,6 @@
 
 ## Command : git commit
 ** Description: ** Save staged changes to repository.
+
+## Command : git checkout
+** Description: ** Switch branches or restore files.
