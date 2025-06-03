@@ -22,3 +22,7 @@
 
 ## Command : cat
 ** Description: ** Display contents of file.
+
+## Command : git init
+** Description: ** Initializes a new Git repository in the current directory.
+
