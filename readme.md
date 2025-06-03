@@ -40,3 +40,6 @@
 
 ## Command : git merge
 ** Description: ** Merge another branch into current one.
+
+## Command : git push
+** Description: ** Upload all the changes to GitHub remote repository.
